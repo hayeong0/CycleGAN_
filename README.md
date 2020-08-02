@@ -1,5 +1,4 @@
 # CycleGan을 이용한 이미지 변환
-[![HitCount](http://hits.dwyl.com/chy0428/CycleGAN_.svg)](http://hits.dwyl.com/chy0428/CycleGAN_)
 
 
 ## Motivation
